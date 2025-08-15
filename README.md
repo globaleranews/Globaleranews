@@ -1,4 +1,4 @@
 # Globaleranews
 # GlobalEra News
 We provide business, sports, and entertainment news worldwide.  
-Visit us here: [globaleranews.com](https://globalearanews.com)
+Visit us here: [globaleranews.com](https://globaleranews.com/)
